@@ -10,7 +10,7 @@ pip install requests
 
 Basically, it opens the webpage for us in this one.
 
-BeautifulSoup 4 : https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+BeautifulSoup 4 :'https://www.bankbazaar.com/insurance/car-insurance.html'
 
 pip install beautifulsoup4
 
