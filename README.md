@@ -16,9 +16,6 @@ pip install beautifulsoup4
 
 This allows us to search & extract content from an HTML webpage
 
- Section 2: Advancing Scraping
-Goals of Advancing Scraping:
+Section 2: Advancing Scraping
 Refine scraping code
 Scrape Links
-Add Scrape Depth
-Scrape & Parse words in a Post
